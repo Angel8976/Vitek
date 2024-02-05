@@ -1,0 +1,16 @@
+insert into Autor (Nombre, Nacionalidad) values 
+('Miguel de Cervantes', 'España'),
+('Miguel de Cervantes', 'España'),
+('William Faulkner', 'USA'),
+('Antoine Saint-Exupery', 'Francia'),
+('Maquiavelo', 'Italia'),
+('Henry Kissinger', 'Alemania'),
+('Kitty Kelley', 'Gran Bretaña'),
+('Pu-Yi', 'China'),
+('Pérez Galdós', 'España'),
+('JOSÉ MANUEL ALARCÓN AGUÍN', 'España'),
+('Federico G. Rudolph','España'),
+('Guillermo Cicileo', 'Argentina'),
+('UÑA, Isaías; SAN MARTÍN, Jesús', 'España'),
+('LÓPEZ, Francisco; MALDONADO, Saturnino; RUSA, Manuel', 'España'),
+('Mario Benedetti', 'Uruguay')

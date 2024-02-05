@@ -1,0 +1,16 @@
+insert into Estudiante (CI,Nombre,Direccíon,Carrera,Edad) values 
+('42.117.892-S', 'Inés Maza Rodriguez', 'Av. Escaleritas 12', 'Contaduria',19),
+('31.765.348-D', 'José Melendez Garcia', 'Mesa y López 51', 'TIC-SI', 18),
+('11.542-981-G', 'Miguel', 'Gran Vía 71', 'Alimentos', 20),
+('78.542.450-L', 'Eva', 'Pio Baroja 23', 'Paramedico', 19),
+('44.312.870-Z', 'Yolanda Lozano Encabo', 'El Cid 45', 'Cs. Politicas', 19),
+('47.234.471-P', 'Juan Luis Lopez Vazquez', 'Jaime I, 65', 'Administración', 21),
+('73.735.398-C', 'Louisa Lopez Rubin', 'Av. Clavijero 101', 'Informatica', 18),
+('84.954.509-A', 'Anselmo Menendez Garcia', 'Privada 102 Poniente 118', 'Astronomia', 21),
+('98.765.627-A', 'Gudencio Noriega Garcia', 'Av. Rosas 604', 'Arquitectura', 19),
+('34.465.676-B', 'Genaro Lozano Marina', '21 Oriente 1009', 'Informatica', 23),
+('75.265.983-A', 'Artemio Armesto Rodriguez', 'Coyoacan #28', 'Cs. Politicas', 21),
+('23.365.876-G', 'Raul Valdez Alanes', '14 Sur No. 522', 'Criminalistica', 20),
+('87.265.313-R', 'Carlos Arias Fernandez', '10 Oritente #7', 'Derecho', 23),
+('65.765.348-E', 'Juan Anaya Rugarcia', '2 oriente No. 212', 'Fisico Matematico', 19) ,
+('34.765.723-T', 'Gabriela Alvarez Lopez', 'Coyoacan #28', 'Quimica', 20)

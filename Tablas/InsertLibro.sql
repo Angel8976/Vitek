@@ -1,0 +1,17 @@
+insert into Libro (Titulo, Editorial, Area) values 
+('Don Quijote de La Mancha I', 'Anaya', 'Caballeresco'),
+('Don Quijote de La Mancha II', 'Anaya', 'Caballeresco'),
+('Historias de Nueva Orleans', 'Alfaguara', 'Novela'),
+('El principito', 'Andina ', 'Aventura'),
+('El príncipe', 'S.M.', 'Politico'),
+('Diplomacia', 'S.M.', 'Politico'),
+('Los Windsor', 'Plaza & Janés', 'Biografías'),
+('El Último Emperador', 'Caralt', 'Autobiografías'),
+('Fortunata y Jacinta', 'Plaza & Janés', 'Novela'),
+('Programación Web con Visual Studio y ASP.NET 2.0', 'Krasis Press', 'Informatica') ,
+('Introducción a Visual Studio .NET', 'Bubok', 'Informatica'),
+('IPv6 para Todos. Guía de uso y Aplicación para diversos entornos', 'Capitulo Argentina', 'Internet'),
+('Cálculo En Una Variable - 707 Ejercicios Desarrollados', 'Alfaomega', 'Ciencias - Química-Física-Matemáticas'),
+('Análisis De Circuitos Lineales 3a ed.', 'Alfaomega, Ra-Ma', 'Eléctrica'),
+('La Tregua', 'Sudamericana', 'Ficción y Literatura'),
+('Libro Prueba', 'Editorial Prueba', 'Area Prueba')
